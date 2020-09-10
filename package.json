@@ -1,0 +1,13 @@
+{
+  "name": "create-nestjs-api",
+  "version": "1.0.0",
+  "description": "A CLI to automatically clone the Nestjs API Starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": "index.js",
+  "keywords": [],
+  "author": "Abdallah Hemedah",
+  "license": "MIT"
+}
